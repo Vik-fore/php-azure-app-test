@@ -1,1 +1,1 @@
-<?php echo "CI/CD works now!"; ?>
+<?php echo "CI/CD is working! 🚀"; ?>
