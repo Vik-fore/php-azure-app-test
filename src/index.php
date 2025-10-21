@@ -1,4 +1,1 @@
-<?php
-echo "Deployment works automatically! 🚀";
-
-
+<?php echo "CI/CD works now!"; ?>
